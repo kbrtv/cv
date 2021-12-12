@@ -1,0 +1,34 @@
+lang: ru
+
+name:
+  last: Буркитбай
+  first: Ками
+
+position: веб разработчик
+
+contacts:
+  phone: 8 747 344 32 11
+  email: k.burkitbay@gmail.com
+  linkedIn: kbrtv
+
+profile: Есть опыт по разработке и поддержке автоматизированных систем. Знание и применение HTML/css/js на уровне junior+.
+         Разработка интерфейса приложений с применением Vue.js/bootstrap-vue. Базовые знание по react.js. Разработка серверной части на node.js/Express с применением архитектурного подхода REST API. Взаимодействие серверной части с реляционной базой данных Oracle. Знание Sql, начиная от простых запросов до написания функций и процедур с помощью PL/SQL. Есть опыт по проектированию модели данных.
+
+skills:
+- HTML5
+- CSS3
+- JAVASCRIPT
+- Node js
+- ORACLE/PLSQL
+- git
+
+experience:
+- workPosition: Full stack web developer
+  workPeriod: 2020
+  companyName: TechWorks
+  description: Разработка и поддержка автоматизированных систем. Решения задач на уровне фронта, бэка и базы. Использование современных технологий для разработки. Поддержка и оптимизация текущих проектов. Ревью задач. Работа с продуктивной средой.
+
+education:
+- degreeTitle: Бакалавр
+  institutionName: Suleyman Demirel University
+  studyDirection: Информационные системы

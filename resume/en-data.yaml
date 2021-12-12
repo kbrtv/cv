@@ -1,0 +1,34 @@
+lang: en
+
+name:
+  last: Burkitbay
+  first: Kami
+
+position: web developer
+
+contacts:
+  phone: 8 747 344 32 11
+  email: k.burkitbay@gmail.com
+  linkedIn: kbrtv
+
+profile: Has experience in the development and support of automated systems. Knowledge and application of HTML / css / js at the junior + level.
+         Application interface development using Vue.js / bootstrap-vue. Basic knowledge of react.js. Development of the server side in node.js / Express using the architectural approach of the REST API. Server side interaction with the Oracle relational database. Knowledge of Sql, ranging from simple queries to writing functions and procedures using PL / SQL. Have experience in designing a data model.
+
+skills:
+- "HTML5"
+- "CSS3"
+- "JAVASCRIPT"
+- "Node js"
+- "ORACLE/PLSQL"
+- "git"
+
+experience:
+- workPosition: Full stack web developer
+  workPeriod: 2020
+  companyName: TechWorks
+  description: Development and support of automated systems. Solutions to problems at the front, back and base levels. Using modern technologies for development. Support and optimization of current projects. Review of tasks. Working with a productive environment.
+
+education:
+- degreeTitle: Bachelor
+  institutionName: Suleyman Demirel University
+  studyDirection: Information Systems
